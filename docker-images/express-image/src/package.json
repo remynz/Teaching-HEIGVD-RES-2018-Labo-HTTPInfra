@@ -1,0 +1,15 @@
+{
+  "name": "students",
+  "version": "1.0.0",
+  "description": "Part 2 to Infra laboratory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Miguel Gouveia",
+  "license": "ISC",
+  "dependencies": {
+    "chance": "^1.0.16",
+    "express": "^4.16.3"
+  }
+}
